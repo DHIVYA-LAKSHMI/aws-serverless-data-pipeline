@@ -6,7 +6,8 @@ This project implements a fully serverless data pipeline using AWS services. It 
 
 ## ☁️ Architecture Overview
 
-![Architecture Diagram](architecture/your-architecture-image.png)
+![Architecture Diagram](architecture/data-pipeline.drawio.png)
+
 
 The pipeline consists of the following stages:
 
@@ -29,5 +30,14 @@ The pipeline consists of the following stages:
 
 ---
 
-## 📂 Project Structure
+## 📄 Project Report
+
+📥 [Download Full Project Report](data-pipeline.pdf)
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and share — with attribution.
 
